@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "imagemin": "^6.1.0",
     "imagemin-pngquant": "^7.0.0"
   }
 }
